@@ -83,8 +83,9 @@ JeeChemSage.AI/
 │   └── mechanisms/              # PNG diagrams (e.g., e2.png, sn1.png)
 │
 └── README.md
+```
 
-sample_reactions:
+## Sample Reactions:
   - reaction: "ethyl bromide + KOH -> ethene + HBr"
     type: "E2 Elimination"
   - reaction: "tert-butyl bromide + H2O -> tert-butyl alcohol + HBr"
@@ -94,14 +95,14 @@ sample_reactions:
   - reaction: "benzamide + Br2 + KOH -> aniline + KBr + CO2"
     type: "Hoffmann Rearrangement"
 
-future_ideas:
+## Future Ideas:
   - "ML-powered reaction classification (currently rule-based fallback)"
   - "Intelligent MCQ difficulty levels"
   - "Integration with NCERT & Allen chemistry syllabus"
   - "Voice input (e.g., via Whisper API)"
   - "Online hosting via Streamlit Cloud or Hugging Face Spaces"
 
-installation:
+## Installation:
   - step: "Clone the repository"
     command: "git clone https://github.com/yourusername/JeeChemSage.AI.git"
   - step: "Navigate into the project directory"
@@ -113,4 +114,4 @@ installation:
   - tip: "If you see RDKit or SMILES parsing errors, make sure you’ve installed RDKit correctly"
     command: "conda install -c rdkit rdkit"
 
-  tagline: "For students, by a student."
+## Tagline: "For students, by a student."
