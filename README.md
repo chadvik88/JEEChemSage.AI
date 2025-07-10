@@ -7,7 +7,7 @@ JeeChemSage.AI is an interactive chemistry learning tool built to help students 
 
 ## 📸 Live Demo
 
-> 🧬 [Try the app (Streamlit link if hosted)](https://huggingface.co/spaces/charvik/JEEChemAI)
+> 🧬 [Try the app (Streamlit link)](https://huggingface.co/spaces/charvik/JEEChemAI)
 
 ---
 
