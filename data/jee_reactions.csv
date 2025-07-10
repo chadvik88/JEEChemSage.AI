@@ -1,0 +1,47 @@
+reactants,products,label
+CH3CH2Br + KOH,C2H4 + HBr,SN2
+C(CH3)3Br + H2O,C(CH3)3OH + HBr,SN1
+CH3CH2OH + H2SO4,CH2=CH2 + H2O,E1
+CH3CH=CH2 + HBr,CH3CHBrCH3,Electrophilic Addition
+CH3COOH + C2H5OH,CH3COOC2H5 + H2O,Esterification
+C6H5NH2 + CH3COCl,C6H5NHCOCH3 + HCl,Acylation
+C6H5Br + Mg,C6H5MgBr,Grignard Formation
+C6H5COCH3 + I2 + NaOH,CHI3 + C6H5COONa,Haloform
+C6H5CH2OH,C6H5CHO,Oxidation
+CH3COOH + NH3,CH3CONH2,Amidation
+CH3CONH2 + Br2 + KOH,CH3NH2 + KBr + CO2,Hoffmann Rearrangement
+CH3CH=CH2 + BH3 + H2O2,CH3CH2CH2OH,Hydroboration
+CH3CH=CH2 + H2,CH3CH2CH3,Hydrogenation
+CH3CH2Cl + NaOH,CH3CH2OH + NaCl,SN2
+CH3CH=CH2 + HCl,CH3CHClCH3,Electrophilic Addition
+CH3CH2OH + PCC,CH3CHO,Oxidation
+CH3CHO + H2,CH3CH2OH,Reduction
+CH3CH2OH + CH3COOH,CH3COOCH2CH3 + H2O,Esterification
+C6H6 + Cl2,C6H5Cl + HCl,Electrophilic Substitution
+CH3CH=CH2 + KMnO4,CH3COOH,Oxidation
+CH3CH=CH2 + H2O,CH3CH(OH)CH3,Hydration
+CH3COCH3 + I2 + NaOH,CHI3 + CH3COONa,Haloform
+C6H5NH2 + NaNO2 + HCl,C6H5N2+Cl-,Diazotization
+C6H5N2+Cl- + H3O+,C6H5OH + N2,Hydrolysis of Diazonium
+C6H5OH + CHCl3 + NaOH,C6H4CHO + NaCl + H2O,Reimer-Tiemann
+C6H5NH2 + Br2,C6H4BrNH2 + HBr,Electrophilic Substitution
+C6H5COOH + SOCl2,C6H5COCl + SO2 + HCl,Acid Chloride Formation
+CH3CN + H2O,CH3COOH,Nitrile Hydrolysis
+CH3CHO + CH3CHO,CH3CH(OH)CH2CHO,Aldol Condensation
+CH3COCl + NH3,CH3CONH2 + HCl,Amidation
+CH3CH2OH + HBr,CH3CH2Br + H2O,SN2
+CH3CH2CH2OH + PCC,CH3CH2CHO,Oxidation
+CH3CH=CH2 + HBr,CH3CHBrCH3,Electrophilic Addition
+C6H5CH=CH2 + Br2,C6H5CHBrCH2Br,Electrophilic Addition
+C6H5CH=CH2 + H2,C6H5CH2CH3,Hydrogenation
+CH3CH=CHCH3 + O3,CH3CHO + CH3CHO,Ozonolysis
+CH3COOH + C2H5OH,CH3COOC2H5 + H2O,Esterification
+C6H6 + HNO3 + H2SO4,C6H5NO2 + H2O,Nitration
+CH3CH2OH + CrO3,CH3COOH,Oxidation
+CH3CH2CH2OH + H2SO4,CH3CH=CH2 + H2O,Dehydration
+C6H5CH2OH + KMnO4,C6H5COOH,Oxidation
+CH3CH2Br + NaCN,CH3CH2CN + NaBr,SN2
+CH3CH=CH2 + HCl,CH3CHClCH3,Electrophilic Addition
+CH3COOH + NaOH,CH3COONa + H2O,Neutralization
+C6H5Br + Mg,C6H5MgBr,Grignard Formation
+CH3CH2CH2OH + Na,CH3CH2CH2ONa + H2,Metal Alcohol Reaction
