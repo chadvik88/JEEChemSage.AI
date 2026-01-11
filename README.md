@@ -14,8 +14,8 @@ JeeChemSage.AI is an interactive chemistry learning tool built to help students 
 ## Application Screenshots
 
 <p align="center">
-  <img src="assets/images/fig7.jpeg" width="450"/>
-  <img src="assets/images/fig5.jpeg" width="450"/>
+  <img src="assets/mechanisms/images/fig7.jpeg" width="450"/>
+  <img src="assets/mechanisms/images/fig5.jpeg" width="450"/>
 </p>
 
 ## Features
