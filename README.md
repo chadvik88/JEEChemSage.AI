@@ -109,13 +109,13 @@ JeeChemSage.AI/
 
 ## Installation:
 ```bash
-  - step: "Clone the repository"
+  - step: Clone the repository
     command: "git clone https://github.com/yourusername/JeeChemSage.AI.git"
-  - step: "Navigate into the project directory"
+  - step: Navigate into the project directory
     command: "cd JeeChemSage.AI"
-  - step: "Install dependencies (recommended inside a virtual environment)"
+  - step: Install dependencies (recommended inside a virtual environment)
     command: "pip install -r requirements.txt"
-  - step: "Run the Streamlit app"
+  - step: Run the Streamlit app
     command: "streamlit run app/streamlit_app.py"
   - tip: "If you see RDKit or SMILES parsing errors, make sure you’ve installed RDKit correctly"
     command: "conda install -c rdkit rdkit"
