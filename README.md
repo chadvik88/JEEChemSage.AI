@@ -108,6 +108,7 @@ JeeChemSage.AI/
   - "Online hosting via Streamlit Cloud or Hugging Face Spaces"
 
 ## Installation:
+```bash
   - step: "Clone the repository"
     command: "git clone https://github.com/yourusername/JeeChemSage.AI.git"
   - step: "Navigate into the project directory"
@@ -118,5 +119,5 @@ JeeChemSage.AI/
     command: "streamlit run app/streamlit_app.py"
   - tip: "If you see RDKit or SMILES parsing errors, make sure you’ve installed RDKit correctly"
     command: "conda install -c rdkit rdkit"
-
+```
 ## Tagline: "For students, by a student."
